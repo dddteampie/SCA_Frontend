@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://dddteampie.github.io/ddd_opdracht",
+  "homepage": "https://dddteampie.github.io/SCA_Frontend",
   "private": true,
   "dependencies": {
     "@types/node": "^15.14.9",
