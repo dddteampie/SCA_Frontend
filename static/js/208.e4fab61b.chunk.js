@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[208],{3208:(e,n,i)=>{i.r(n),i.d(n,{default:()=>s});var t=i(579);const s=()=>(0,t.jsxs)("div",{style:{display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center",minHeight:"100vh",textAlign:"center",padding:"20px"},children:[(0,t.jsx)("h1",{children:"Welkom bij Smart Care Assist"}),(0,t.jsx)("p",{children:"Dit is een applicatie om sneller passende technologi\xebn bij de client te vinden."})]})}}]);
+//# sourceMappingURL=208.e4fab61b.chunk.js.map
