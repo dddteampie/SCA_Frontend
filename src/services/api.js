@@ -3,7 +3,8 @@ const API_URLS = {
   behoefte: process.env.REACT_APP_BEHOEFTE_API_BASE_URL,
   aanvraag: process.env.REACT_APP_AANVRAAG_API_BASE_URL,
   product: process.env.REACT_APP_PRODUCT_API_BASE_URL,
-  ecd: process.env.REACT_APP_ECD_API_BASE_URL, 
+  ecd: process.env.REACT_APP_ECD_API_BASE_URL,
+  bestel: process.env.REACT_APP_BESTEL_API_BASE_URL,
 };
 
 // Functie om de juiste basis-URL op te halen
